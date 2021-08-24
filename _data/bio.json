@@ -1,15 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Momoka Michimoto",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
-    "location": {
+    "email": "ms295@hawaii.edu",
+    "phone": "808-454-3066",
+    "website": "https://momokamichimoto.github.io",
+    "summary": "I am a student of the University of Hawaii at Manoa",
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,37 +16,22 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "momokamichimoto",
+        "url": "http://github.com/momokamichimoto"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "momokamichimoto",
+        "url": "http://linkedin.com/in/momokamichimoto"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "sustainability",
       "keywords": [
         "Arduino",
         "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
       ]
     },
     {
