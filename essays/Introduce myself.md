@@ -3,7 +3,6 @@ layout: essay
 type: essay
 title: Introduce myself
 date: 2021-08-28
-label: Shidler Undergraduate
 ---
 
 Hi, my name is Momoka Michimoto.  I'm an international student majoring in B.A. in Management Information Systems at the University of Hawaii.  
