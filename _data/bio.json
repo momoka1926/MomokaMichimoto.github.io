@@ -26,19 +26,23 @@
       }
     ]
   },
-  "interests": [Anime, Music, Movie
+  "interests": [
     {
-      "name": "sustainability",
+      "name": "anime",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "music",
       "keywords": [
       ]
-    }
+    },
+      "name":"movie",
+      "keywords": [
+      ]
+}
   ],
   "skills": [
     {
