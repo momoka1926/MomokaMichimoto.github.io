@@ -32,7 +32,12 @@
       ]
     },
     {
-      "name": "piano/music",
+      "name": "music",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "piano",
       "keywords": [
       ]
     },
