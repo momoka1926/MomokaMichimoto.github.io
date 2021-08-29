@@ -63,12 +63,9 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "B.B.A., Management Information Systems (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2021-08-023",
+      "startDate": "2021",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-        "ICS101 Digital Tools for the Information World"
-      ]
+      "gpa": ""
     },
     {
       "institution": "Kapiolani Community College",
@@ -76,7 +73,10 @@
       "studyType": "A.A.",
       "startDate": "2019",
       "endDate": "2021",
-      "gpa": "3.94"
+      "gpa": "3.94",
+      "courses": [
+        "ICS101 Digital Tools for the Information World"
+      ]      
     }
   ],
   "work": [
