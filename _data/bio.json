@@ -54,7 +54,8 @@
       "keywords": [
         "Japanese-Native"
       ]
-    },
+    }
+  ],  
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -81,7 +82,7 @@
       "company": "Zama Aeon Ikinarai Steak",
       "position": "Server",
       "startDate": "2018",
-      "summary": "Assisted customers in order selection, recommended specific menu items, and ensured prompt, accurate service"
+      "summary": "Assisted customers in order selection, recommended specific menu items, and ensured prompt, accurate service",
       "highlights": [     
         "Dedicated to ensuring customer satisfaction while multitasking by remaining professional, accessible, and friendly",
         "Operated cash register, received, and dispensed correct change to customers"
@@ -89,7 +90,7 @@
     },
     {
       "company": "Yamato Transport",
-      "position": "Office Assistant".
+      "position": "Office Assistant",
       "startDate": "2018",
       "endDate": "2019",
       "summary":  "Performed ad hoc administrative functions"
