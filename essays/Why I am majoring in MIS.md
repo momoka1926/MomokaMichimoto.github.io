@@ -4,9 +4,9 @@ type: essay
 title: Why I am majoring in MIS
 date: 2021-08-28
 label: 
-  -ITM352
-  -Learning
-  -Why I am majoring in MIS
+  - ITM352
+  - Learning
+  - Why I am majoring in MIS
 ---
 
 Hi, my name is Momoka Michimoto.  I'm an international student majoring in B.A. in Management Information Systems at the University of Hawaii.  
