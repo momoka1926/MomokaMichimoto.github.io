@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Why I am majoring in MIS
 date: 2021-08-28
-label: 
+labels: 
   - ITM352
   - Learning
   - Why I am majoring in MIS
