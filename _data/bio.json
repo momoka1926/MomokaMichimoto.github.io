@@ -27,7 +27,7 @@
     ],
   "interests": [
     {
-      "name": "anime",
+      "name": "cooking",
       "keywords": [
       ]
     },
@@ -52,12 +52,26 @@
       "gpa": "",
       "courses": [
       ]
+    },
+    {
+      "institution": "Kapiolani Community College",
+      "area": "Liberal Arts",
+      "studyType": "",
+      "startDate": "2019",
+      "endDate": "2021",
+      "gpa": "",
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
       "company": "Restaurant",
       "position": "Server"
+    },
+    {
+      "company": "Yamato Transport",
+      "position": "part-time day job"
     }
   ]
 }
