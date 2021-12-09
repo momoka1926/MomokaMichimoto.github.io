@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Checkpoint Assignment 3
-date: 2021-12-9
+date: 2021-12-09
 labels: 
     - Education
     - Learning 
